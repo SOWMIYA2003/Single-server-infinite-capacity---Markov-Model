@@ -51,7 +51,8 @@ print("---------------------------------------------------------------")
 ```
 
 ## Output :
-![sw2](https://github.com/SOWMIYA2003/Single-server-infinite-capacity---Markov-Model/assets/93427443/bc02f228-a261-4b90-a823-860da7be7592)
+![SSW](https://github.com/SOWMIYA2003/Single-server-infinite-capacity---Markov-Model/assets/93427443/59a238a3-771c-40aa-bc67-b60505edb5ce)
 ## Result :
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
+
 
