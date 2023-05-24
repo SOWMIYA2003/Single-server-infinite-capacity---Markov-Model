@@ -15,14 +15,14 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ## Procedure :
 
 ![imAGE](2.png)
-
-
-
 ## Experiment:
 ![237722115-cc250870-d1e7-4112-8ccc-5cae2a4301f0](https://github.com/SOWMIYA2003/Single-server-infinite-capacity---Markov-Model/assets/93427443/68e6e2fa-d507-4950-be59-6fe7ed9ed177)
 ![237722146-6803d927-8db8-44a6-b37a-5e7a4bfebf01](https://github.com/SOWMIYA2003/Single-server-infinite-capacity---Markov-Model/assets/93427443/365b6763-1dd9-4d50-a2bf-52498e33e9d7)
 ## Program
 ```
+DEVELOPED BY : SOWMIYA N
+REGISTER NO : 212221230106
+
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
 Robot_time=float(input("Enter the Additional time taken for the Robot (in secs) :  "))
@@ -53,6 +53,5 @@ print("---------------------------------------------------------------")
 ## Output :
 ![sw2](https://github.com/SOWMIYA2003/Single-server-infinite-capacity---Markov-Model/assets/93427443/bc02f228-a261-4b90-a823-860da7be7592)
 ## Result :
-Thus the following are found :- (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 12 seconds, serivice time of lathe machine follows exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
-
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
 
